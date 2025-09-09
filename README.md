@@ -12,7 +12,7 @@ I am currently a **student** at [SibFU](https://www.sfu-kras.ru/en) (academic pr
 
 I look forward to **improve my skills** and **find precious work experience**.
 
-My main interest is **backend** and **ML**
+My main interests are **backend** and **ML**
 
 <h2 align="center">My biggest projects (<i>...yet</i>)</h2>
 
