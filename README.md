@@ -6,9 +6,9 @@
 
 <h2 align="center">Who am I?</h2>
 
-I am **a beginner Python-dev**.
+I am **a Python-dev**.
 
-I am currently a **student** at [SibFU](https://www.sfu-kras.ru/en) (academic program - "Software Engineering"), 3rd year.
+I am currently a **student** at [SibFU](https://www.sfu-kras.ru/en) (academic program - "Software Engineering"), 4th year.
 
 I look forward to **improve my skills** and **find precious work experience**.
 
@@ -30,7 +30,7 @@ My main interests are **backend** and **ML**
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
-#### On basic level (for education purposes: I haven't used them in pet-projects)
+#### On basic level (for education purposes: I haven't used them in projects)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
